@@ -103,7 +103,7 @@
           </section>-->
 
           <!-- Section -->
-          <section>
+          <!-- <section>
             <header class="major">
               <h2>Ipsum sed dolor</h2>
             </header>
@@ -179,13 +179,13 @@
                     <a href="#" class="button">More</a>
                   </li>
                 </ul>
-              </article>
-            </div>
-          </section>
+          </article>-->
         </div>
+        <!-- </section> -->
       </div>
     </div>
   </div>
+  <!-- </div> -->
 </template>
 
 <style>

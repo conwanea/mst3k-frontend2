@@ -2075,7 +2075,7 @@ button,
   display: -webkit-flex;
   display: -ms-flex;
   display: flex;
-  border-bottom: solid 5px #f56a6a;
+  border-bottom: solid 5px #e4e007;
   padding: 6em 0 1em 0;
   position: relative; }
   #header > * {
@@ -2271,3 +2271,16 @@ button,
     border-top: 0;
     margin-top: 0;
     padding-top: 0; }
+
+/*iframe */
+#all{
+  width:100%;
+  float:left;
+  text-align:center;
+}
+/* div.sub, iframe {
+  width: 500px;
+  height: 400px;
+  margin: 0 auto; */
+
+}
